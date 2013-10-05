@@ -8,6 +8,8 @@ production server and loaded with a sample members database.
 * Clone this repository
 * Clone gas-api into ./www/api.gas.geeksoc.org/public_html/
 * Clone gas-client into ./www/gas.geeksoc.org/public_html/
+* Use composer to install gas-client dependencies
+* Update any configuration paramaters as needed
 * Edit you hosts file to point api.gas.geeksoc.org and gas.geeksoc.org
   at 127.0.0.1
 * Run vagrant up
